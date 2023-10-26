@@ -1,6 +1,6 @@
 ### Howdy! 🤠
 
-I'm [Margaret](https://margaretdax.com), a developer mostly working in games. Currently enjoying learning about Rust and getting yelled at by rust-analyzer. Working at Klang Games.
+I'm [Margaret](https://margaretdax.com), a developer mostly working in games. Currently enjoying learning about Rust and getting yelled at by rust-analyzer. Working at Maschinen Mensch.
 
 <!--
 **margaretdax/margaretdax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
